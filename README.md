@@ -1,2 +1,2 @@
-# mario
-슈퍼마리오 모작
+## mario
+Unity 2D로 제작
