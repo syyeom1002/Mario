@@ -4,18 +4,18 @@
 ## 1. 프로젝트 소개
 
 <div align="center">
-
-  <img src="https://github.com/user-attachments/assets/bbf87c18-8bb5-4f78-8f3b-89815df475c1" width="49%" height="280"/>
-  <img src="https://github.com/user-attachments/assets/a0516eea-442e-41ec-bed1-6819eab7db4c" width="49%" height="280"/>
-  <img src="https://github.com/user-attachments/assets/0a0f3334-245d-4794-94d4-1f2665892f00" width="49%" height="280"/>
-  <img src="https://github.com/user-attachments/assets/cdb9eb56-9511-4ea5-b8d5-fc3420dbd165" width="49%" height="280"/>
+  
+  <img src="https://github.com/user-attachments/assets/29e21f73-01e5-477d-a38d-913ac11fe60c" width="49%" height="280"/>
+  <img src="https://github.com/user-attachments/assets/1d3157e0-772e-4b68-98ed-1be168f8ba80" width="49%" height="280"/>
+  <img src="https://github.com/user-attachments/assets/a413ad52-bd79-4639-b783-5703c9eea305" width="49%" height="280"/>
+  <img src="https://github.com/user-attachments/assets/f01b9e66-8f86-4e27-beeb-e68c09cc626f" width="49%" height="280"/>
 
   < 게임 플레이 사진 >
 
 </div>
 
 > + 슈퍼마리오 브라더스 게임 모작 프로젝트 입니다. 3개의 맵으로 구성하였습니다.
-> 
+> + 개인 프로젝트
 > + 개발기간: 2023/09/14 ~ 2023/09/21 (총 7일)
 
 
@@ -37,15 +37,10 @@
 | Sprite Animation | 마리오, 벽돌, 코인 애니메이션 |
 | 타일맵 | 맵 구성 |
 | Lerp | 카메라 팔로우 |
-| 라이트맵| 성능의 최적화를 위해 라이트맵을 이용하여 게임 맵 구성 |
+| Physics2D.Raycast | 포탈 이동 구현 |
 
 <br>
 
-## 4. 개발 인원 및 담당
-
-+ 개인 프로젝트
-
-<br>
 
 ## 5. 핵심 기능
 
@@ -53,8 +48,8 @@
 #### 이동 및 점프
 <img src="https://github.com/user-attachments/assets/11cc95ff-1e0a-41db-99a3-302b18869e95" width="49%" height="280"/>
 
-+ Controller의 Thumbstick 으로 좌우 이동
-+ Controller의 A버튼 클릭하면 캐릭터 선택 완료, 게임씬으로 전환
++ 키보드 좌우 키로 이동
++ Space bar를 눌러 점프 - 낮은 점프/ 높은 점프 모두 가능
 
 
 #### 맵 이동
@@ -65,8 +60,7 @@
 
 </div>
 
-+ 자동 이동
-+ Leap : Contoller의 A 버튼을 이용하여 이동 가능
++ 포탈을 타고 이동 가능
 
 
 #### 아이템 획득 
@@ -77,11 +71,11 @@
 
 </div>
 
-+ 방패 던지기 : Controller의 HandTrigger버튼으로 조작 가능
-+ 방패 찍기 : Controller의 IndexTrigger 버튼으로 조작 가능
++ 코인 : 코인 증가 및 점수 증가
++ 버섯 : 크기, 목숨 증가
 
 
-#### 깃발 타기
+#### 적과의 충돌
 <div align="center">
 
   <img src="https://github.com/user-attachments/assets/681a87de-7626-4a73-904e-093a1984104b" width="49%" height="280"/>
@@ -89,8 +83,9 @@
 
 </div>
 
-+ 공중적- 레이저 공격
-+ 지상적- 총알 공격 , 순간 빠른 속도로 이동
++ 마리오의 크기가 증가한 상태 -> 크기 감소
++ 마리오의 크기가 증가하지 않은 상태 -> 게임 오버
++ 위에서 아래로 적을 공격 -> 적의 소멸
 
 
 
