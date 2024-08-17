@@ -5,10 +5,10 @@
 
 <div align="center">
   
-  <img src="https://github.com/user-attachments/assets/29e21f73-01e5-477d-a38d-913ac11fe60c" width="49%" height="280"/>
-  <img src="https://github.com/user-attachments/assets/1d3157e0-772e-4b68-98ed-1be168f8ba80" width="49%" height="280"/>
-  <img src="https://github.com/user-attachments/assets/a413ad52-bd79-4639-b783-5703c9eea305" width="49%" height="280"/>
-  <img src="https://github.com/user-attachments/assets/f01b9e66-8f86-4e27-beeb-e68c09cc626f" width="49%" height="280"/>
+  <img src="https://github.com/user-attachments/assets/29e21f73-01e5-477d-a38d-913ac11fe60c" width="49%" height="250"/>
+  <img src="https://github.com/user-attachments/assets/1d3157e0-772e-4b68-98ed-1be168f8ba80" width="49%" height="250"/>
+  <img src="https://github.com/user-attachments/assets/a413ad52-bd79-4639-b783-5703c9eea305" width="49%" height="250"/>
+  <img src="https://github.com/user-attachments/assets/f01b9e66-8f86-4e27-beeb-e68c09cc626f" width="49%" height="250"/>
 
   < 게임 플레이 사진 >
 
@@ -48,8 +48,8 @@
 #### 이동 및 점프
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/b5a4a45f-0e65-4c2e-b951-2a5d68f33a9b" width="49%" height="280"/>
-  <img src="https://github.com/user-attachments/assets/b169959e-346d-41ea-aa84-9cc0e391c5c2" width="49%" height="280"/>
+  <img src="https://github.com/user-attachments/assets/b5a4a45f-0e65-4c2e-b951-2a5d68f33a9b" width="49%" height="250"/>
+  <img src="https://github.com/user-attachments/assets/b169959e-346d-41ea-aa84-9cc0e391c5c2" width="49%" height="250"/>
 
 </div>
 
@@ -58,7 +58,7 @@
 
 
 #### 맵 이동
-  <img src="https://github.com/user-attachments/assets/a2cd8605-1667-427a-94ae-db7e649f0a10" width="49%" height="280"/>
+  <img src="https://github.com/user-attachments/assets/a2cd8605-1667-427a-94ae-db7e649f0a10" width="49%" height="250"/>
 
 
 + 포탈을 타고 이동 가능
@@ -74,8 +74,8 @@
 #### 적과의 충돌
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/01a19714-e864-490f-8a6e-50a9adf84dca" width="49%" height="280"/>
-  <img src="https://github.com/user-attachments/assets/305bd35b-0314-4855-9acf-2f8ececc34fc" width="49%" height="280"/>
+  <img src="https://github.com/user-attachments/assets/01a19714-e864-490f-8a6e-50a9adf84dca" width="49%" height="250"/>
+  <img src="https://github.com/user-attachments/assets/305bd35b-0314-4855-9acf-2f8ececc34fc" width="49%" height="250"/>
 
 </div>
 
