@@ -46,30 +46,26 @@
 
 
 #### 이동 및 점프
-<img src="https://github.com/user-attachments/assets/11cc95ff-1e0a-41db-99a3-302b18869e95" width="49%" height="280"/>
+<div align="center">
+
+  <img src="https://github.com/user-attachments/assets/b5a4a45f-0e65-4c2e-b951-2a5d68f33a9b" width="49%" height="280"/>
+  <img src="https://github.com/user-attachments/assets/b169959e-346d-41ea-aa84-9cc0e391c5c2" width="49%" height="280"/>
+
+</div>
 
 + 키보드 좌우 키로 이동
 + Space bar를 눌러 점프 - 낮은 점프/ 높은 점프 모두 가능
 
 
 #### 맵 이동
-<div align="center">
+  <img src="https://github.com/user-attachments/assets/a2cd8605-1667-427a-94ae-db7e649f0a10" width="49%" height="280"/>
 
-  <img src="https://github.com/user-attachments/assets/0c9152d7-3a7b-4341-8474-9505adc12a4f" width="49%" height="280"/>
-  <img src="https://github.com/user-attachments/assets/2dad20b5-6b8c-481f-a554-48394df6d80d" width="49%" height="280"/>
-
-</div>
 
 + 포탈을 타고 이동 가능
 
 
 #### 아이템 획득 
-<div align="center">
-
-  <img src="https://github.com/user-attachments/assets/e561759c-4568-4fc2-9fe4-ba2b972b0adb" width="49%" height="280"/>
-  <img src="https://github.com/user-attachments/assets/a9fb460c-7c83-4f43-928b-f6cc181c6bed" width="49%" height="280"/>
-
-</div>
+<img src="https://github.com/user-attachments/assets/cfb40d72-4653-4f2c-a9b6-27c183203199" width="49%" height="280"/>
 
 + 코인 : 코인 증가 및 점수 증가
 + 버섯 : 크기, 목숨 증가
@@ -78,8 +74,8 @@
 #### 적과의 충돌
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/681a87de-7626-4a73-904e-093a1984104b" width="49%" height="280"/>
-  <img src="https://github.com/user-attachments/assets/e2b303b9-a74e-4939-9d5d-6e0f50b46941" width="49%" height="280"/>
+  <img src="https://github.com/user-attachments/assets/01a19714-e864-490f-8a6e-50a9adf84dca" width="49%" height="280"/>
+  <img src="https://github.com/user-attachments/assets/305bd35b-0314-4855-9acf-2f8ececc34fc" width="49%" height="280"/>
 
 </div>
 
